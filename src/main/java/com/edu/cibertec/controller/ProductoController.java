@@ -30,6 +30,7 @@ public class ProductoController {
 	}
 	
 	
+	/*nueva modificacion nuevo*/	
 	
 	@GetMapping("/nuevoProductoForm")
 	public String nuevoProductoForm(Model modelo) {
